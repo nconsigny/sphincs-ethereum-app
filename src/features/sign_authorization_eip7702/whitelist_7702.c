@@ -27,6 +27,13 @@ static const eip7702_whitelist_t EIP7702_WHITELIST[] = {
      .name = "Simple7702Account",
      .address = {0x4C, 0xd2, 0x41, 0xE8, 0xd1, 0x51, 0x0e, 0x30, 0xb2, 0x07,
                  0x63, 0x97, 0xaf, 0xc7, 0x50, 0x8A, 0xe5, 0x9C, 0x66, 0xc9}},
+    // Multichain deployment of the same Simple7702Account (EntryPoint v0.8) that
+    // viem's toSimple7702SmartAccount and the Kohaku SDKs delegate to. Runtime
+    // code is identical to the entry above; only the metadata hash differs.
+    {.chain_id = 0,
+     .name = "Simple7702Account 0xe6Ca",
+     .address = {0xe6, 0xCa, 0xe8, 0x3B, 0xdE, 0x06, 0xE4, 0xc3, 0x05, 0x53,
+                 0x0e, 0x19, 0x9D, 0x72, 0x17, 0xf4, 0x28, 0x08, 0x55, 0x5B}},
 };
 
 const char *get_delegate_name(const uint64_t *chain_id, const uint8_t *address) {

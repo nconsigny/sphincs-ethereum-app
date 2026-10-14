@@ -1,7 +1,8 @@
 # Compilation of Ledger's app
 bin/
 debug/
-build/
+build/*
+!build/prod/
 
 # Nano NBGL reversed icon for Home Screen
 glyphs/home_chain_*
