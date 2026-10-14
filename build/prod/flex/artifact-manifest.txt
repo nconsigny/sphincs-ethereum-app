@@ -1,0 +1,5 @@
+target=flex
+mode=prod
+commit=035f2016b5cc209fe4e553cf9c7402600ee48e45
+sdk=v27.1.2
+elf_sha256=e43cc0363d21fa4e5d7051a2b807c4e68a1032c2f5c8ce895bee5adf26ba9ab1

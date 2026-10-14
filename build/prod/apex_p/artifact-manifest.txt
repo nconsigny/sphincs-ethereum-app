@@ -1,0 +1,5 @@
+target=apex_p
+mode=prod
+commit=035f2016b5cc209fe4e553cf9c7402600ee48e45
+sdk=v27.1.2
+elf_sha256=c16dd659df707706862f7dce485c1cfebab5d30c569a66487db4a8decd4bd49b

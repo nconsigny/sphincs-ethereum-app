@@ -1,0 +1,5 @@
+target=nanos2
+mode=prod
+commit=035f2016b5cc209fe4e553cf9c7402600ee48e45
+sdk=v27.1.2
+elf_sha256=dd1fffef5ef748abb4917586c615870dab32f982238a29db4a8f156b894f8000

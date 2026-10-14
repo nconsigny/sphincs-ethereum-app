@@ -1,0 +1,5 @@
+target=stax
+mode=prod
+commit=035f2016b5cc209fe4e553cf9c7402600ee48e45
+sdk=v27.1.2
+elf_sha256=0958a305e1b2ffbc115311a9d6b46271334e1c8f76171ae3f9aa07d34adca054
