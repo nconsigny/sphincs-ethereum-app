@@ -1,5 +1,5 @@
 target=apex_p
 mode=prod
-commit=035f2016b5cc209fe4e553cf9c7402600ee48e45
+commit=b19efad94ee453b0cd87cf8c069f82f9e9c24efd
 sdk=v27.1.2
-elf_sha256=c16dd659df707706862f7dce485c1cfebab5d30c569a66487db4a8decd4bd49b
+elf_sha256=f82bf10d69072fa7f7b61a820fe6a933a83e4aac5b98d3a064ed49ec5d53a9cf
